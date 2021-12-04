@@ -4,9 +4,7 @@
         width: 100%;
         background-color: rgb(61, 58, 58);
         padding: 0 10px;
-    }
-    #--nav {
-        display: none
+        display: block;
     }
     .icon-v {
         font-size: 40px;
