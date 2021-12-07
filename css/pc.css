@@ -25,6 +25,9 @@ li {
     text-decoration: none;
     padding: 0 20px;
 }
+.bg-light {
+    z-index: 100;
+}
 
 
 
@@ -95,5 +98,8 @@ li {
         padding-top: 50px;
         color: rgb(179, 50, 50);
         background-color: rgb(158, 151, 151);
+    }
+    .bg-light {
+        z-index: 100;
     }
 }
