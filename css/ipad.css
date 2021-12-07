@@ -49,4 +49,7 @@
         color: rgb(179, 50, 50);
         background-color: rgb(158, 151, 151);
     }
+    .bg-light {
+        z-index: 100;
+    }
   }
