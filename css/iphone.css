@@ -27,5 +27,8 @@
         margin: 20px;
         text-align: center;
     }
+    .bg-light {
+        z-index: 100;
+    }
 
 }
